@@ -1,0 +1,18 @@
+1,Jay Walker,91 Boland Drive,BAGOTVILLE,NSW,2477
+2,Mel Lowe,45 Ocean Drive,MILLERS POINT,NSW,2000
+3,Hugh Manatee,32 Edgecliff Road,REDFERN,NSW,2016
+4,Elizabeth Turner,93 Webb Road,MOUNT HUTTON,NSW,2290
+5,Bev Ridge,81 Parkes Road,YARRAVILLE,VIC,3013
+6,Emma Grates,10 Caroline St,REDFERN,NSW,2016
+7,Barb Dwyer,1 Begley Street,BIRDWOOD,SA,5234
+8,Hugh DeMann,83 Delan Road,ST KILDA,VIC,3182
+9,Hugo First,91 Davis Street,LEPPINGTON,NSW,2179
+10,William Turner,30 Mills Street,KANGAROO POINT,QLD,4169
+11,Evelyn Tent,10 Montrose Road,LEPPINGTON,NSW,2179
+12,Alan Quay,16 Hex Place,PENRITH,NSW,2750
+13,Emma Fraid,212 Screaming Street,MIRANDA,NSW,2228
+14,Paige Turner,356 Book Lane,CANTERBURY,NSW,2193
+15,Helen Back,27 Happy Street,CRONULLA,NSW,2230
+16,Eve Hill,3 Park Ave,ROCKDALE,NSW,2216
+17,Ida Down,21 High Street,MIRANDA,NSW,2228
+18,Ayma Moron,23 Janet Street,LEPPINGTON,NSW,2179

@@ -1,0 +1,20 @@
+1,24 Katrina Street,Seven Hills,NSW,2147,380,0.05,4
+2,3 Doris Street,North Sydney,NSW,2060,800,0.06,5
+3,Level 4 / 235 Macquarie Street,Sydney,NSW,2000,950,0.05,1
+4,14 The Avenue,North Sydney,NSW,2060,720,0.055,9
+5,2 Hampden St,North Sydney,NSW,2060,685,0.08,9
+6,233 Abercrombie Street,Redfern,NSW,2016,700,0.04,3
+7,45 Cleveland Street,Chippendale,NSW,2008,680,0.05,6
+8,Unit 5 401 Wilson Street,Darlington,NSW,2008,620,0.06,3
+9,Unit 4 401 Wilson Street,Darlington,NSW,2008,630,0.06,3
+10,27 Queen Street,Glebe,NSW,2037,710,0.05,10
+11,289 Kent Street,Millers Point,NSW,2000,790,0.08,2
+12,12 Lambert Street,Forest Lodge,NSW,2037,670,0.07,10
+13,37 Cavendish Steet,Stanmore,NSW,2048,585,0.045,10
+14,51 Goodsell Street,St Peters,NSW,2044,615,0.05,9
+15,111 Wyndham Street,Alexandria,NSW,2015,675,0.05,10
+16,27 Allen Street,Waterloo,NSW,2017,590,0.07,6
+17,Unit 26 88 Henderson Road,Alexandria,NSW,2015,580,0.04,6
+18,Unit 3 Level 2 12 Quay St,Haymarket,NSW,2000,980,0.1,9
+19,3 Billyard Avenue,Potts Point,NSW,2011,1450,0.07,7
+20,88 Roslyn Street,Rushcutters Bay,NSW,2011,645,0.085,8
